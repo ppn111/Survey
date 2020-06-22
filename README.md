@@ -1,2 +1,2 @@
 # RandomForms
-redirect to a random google form accroding to age and gender
+redirect to a random google form according to age and gender
